@@ -1,0 +1,8 @@
+﻿# .gitignore
+[Pp]lugins/
+[Pp]latforms/
+bin/
+bld/
+*.user
+.vs/
+www/scripts/
